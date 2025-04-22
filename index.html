@@ -48,7 +48,7 @@
             
             try {
                 // Load certificate data from GitHub
-                const response = await fetch('https://raw.githubusercontent.com/YOUR_USERNAME/pmdclasses-certificates/main/certificates.json');
+                const response = await fetch('https://github.com/pmdcl01/pmdclasses-certificate-verify/blob/main/certificates.json');
                 const certificates = await response.json();
                 
                 const foundCert = certificates.find(cert => 
