@@ -1,0 +1,14 @@
+[
+    {
+        "id": "PMDC2023001",
+        "name": "Rahul Sharma",
+        "course": "Web Development",
+        "date": "2023-05-15"
+    },
+    {
+        "id": "PMDC2023002",
+        "name": "Priya Patel",
+        "course": "Data Science",
+        "date": "2023-06-20"
+    }
+]
