@@ -35,4 +35,82 @@
          "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 85%",
          "date": "(12 Months)"
      }
+     {
+         "id": "DL01-4448101",
+         "name": "Aarti",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 65%",
+         "date": "(12 Months)"
+     },
+     {
+         "id": "DL01-4435001",
+         "name": "Seema",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 63%",
+         "date": "(12 Months)"
+     },
+     {
+         "id": "DL01-4435601",
+         "name": "Palak",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 68%",
+         "date": "(12 Months)"
+     },
+     {
+         "id": "DL01-4435602",
+         "name": "Mehak",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 44%",
+         "date": "(12 Months)"
+     },
+     {
+         "id": "DL01-4431901",
+         "name": "Sanjana",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 64%",
+         "date": "(12 Months)"
+     },
+     {
+         "id": "DL01-4449601",
+         "name": "Adarsh",
+         "course": "Certificate in Advance Excel with 79%",
+         "date": "(06 Months)"
+     },
+     {
+         "id": "DL01-4410501",
+         "name": "Yogesh",
+         "course": "Certificate in Advance Excel with 97%",
+         "date": "(06 Months)"
+     },
+     {
+         "id": "DL01-4464601",
+         "name": "Nandini Kumari",
+         "course": "Certificate in Advance Excel with 63%",
+         "date": "(06 Months)"
+     },
+     {
+         "id": "DL01-4469001",
+         "name": "Ashish Kumar Rathaur",
+         "course": "Certificate in Advance Excel with 87%",
+         "date": "(06 Months)"
+     },
+     {
+         "id": "DL01-4467701",
+         "name": "Aalam",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 89%",
+         "date": "(12 Months)"
+     },
+     {
+         "id": "DL01-4476301",
+         "name": "Manoj Kumar",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 80%",
+         "date": "(12 Months)"
+     },
+     {
+         "id": "DL01-4480301",
+         "name": "Sejal Sharma",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 90%",
+         "date": "(12 Months)"
+     },
+     {
+         "id": "DL01-4480302",
+         "name": "Niraj Raj",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 77%",
+         "date": "(12 Months)"
+     }
  ]
