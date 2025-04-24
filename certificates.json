@@ -113,4 +113,88 @@
          "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 77%",
          "date": "(12 Months)"
      }
+     {
+         "id": "WB02-4486701",
+         "name": "Urmi Das",
+         "course": "Diploma in Computer Applications (D.C.A.) with 68%",
+         "date": "(06 Months)"
+     },
+     {
+         "id": "WB02-4493301",
+         "name": "Sudip Mondal",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 89%",
+         "date": "(12 Months)"
+     },
+     {
+         "id": "WB02-4486702",
+         "name": "Anwesha Biswas",
+         "course": "Diploma in Computer Applications (D.C.A.) with 68%",
+         "date": "(06 Months)"
+     },
+     {
+         "id": "DL01-4500501",
+         "name": "Ritik",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 89%",
+         "date": "(12 Months)"
+     },
+     {
+         "id": "DL01-4508401",
+         "name": "Himanshi Sharma",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 85%",
+         "date": "(12 Months)"
+     },
+     {
+         "id": "DL01-4512601",
+         "name": "Sariya",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 89%",
+         "date": "(12 Months)"
+     },
+     {
+         "id": "DL01-4491701",
+         "name": "Sadhika",
+         "course": "Diploma in Computer Applications (D.C.A.) with 63%",
+         "date": "(06 Months)"
+     },
+     {
+         "id": "WB02-4520801",
+         "name": "Sujon Pramanik",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 71%",
+         "date": "(12 Months)"
+     },
+     {
+         "id": "DL01-4545001",
+         "name": "Kamlesh Kumar",
+         "course": "Certificate in Tally Prime with 71%",
+         "date": "(06 Months)"
+     },
+     {
+         "id": "DL01-4442002",
+         "name": "Dilip Kumar Ram",
+         "course": "Diploma in Computer Applications (D.C.A.) with 63%",
+         "date": "22 March, 2025 to 22 September, 2025 (06 Months)"
+     },
+     {
+         "id": "DL01-4508501",
+         "name": "Komal",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 89%",
+         "date": "08 June, 2023 to 08 December, 2023 (12 Months)"
+     },
+     {
+         "id": "DL01-4508502",
+         "name": "Poonam",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 77%",
+         "date": "08 June, 2023 to 08 December, 2023 (12 Months)"
+     },
+     {
+         "id": "DL01-4508503",
+         "name": "Pinki",
+         "course": "Advance Diploma in Computer Applications (A.D.C.A.) with 65%",
+         "date": "08 June, 2023 to 08 December, 2023 (12 Months)"
+     },
+     {
+         "id": "DL01-4545301",
+         "name": "Neha Sahu",
+         "course": "Certificate in Advance Excel with 76%",
+         "date": "10 June, 2024 to 10 December, 2024 (06 Months)"
+     }
  ]
